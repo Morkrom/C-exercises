@@ -66,7 +66,7 @@ void exercices() {
   int c, n1, getSingleKeyInput;
   
   n1 = 0;
-  
+    
   while ((getSingleKeyInput = getch()) != ERR) {
     
     printf("%c", getSingleKeyInput);
